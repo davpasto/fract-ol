@@ -1,5 +1,5 @@
 LIBFT_PATH = include/libft
-MLX_PATH = include/minilibx
+MLX_PATH = include/minilibx-linux
 
 LIBFT = $(LIBFT_PATH)/libft.a
 MLX = $(MLX_PATH)/libmlx.a
